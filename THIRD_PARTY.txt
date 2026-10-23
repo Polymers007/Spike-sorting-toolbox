@@ -1,0 +1,8 @@
+Third-party components
+
+Kilosort
+Author: Marius Pachitariu and contributors.
+Official source: https://github.com/MouseLand/Kilosort
+License: GNU General Public License version 3; see 002_Kilosort/LICENSE.
+This distribution includes local integration changes for paths, launchers and probe configuration.
+Citation: Pachitariu et al. (2024), Spike sorting with Kilosort4, Nature Methods 21, 914-921.
